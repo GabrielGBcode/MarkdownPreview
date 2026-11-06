@@ -1,6 +1,6 @@
 # Markdown Viewer V2
 
-[English](README.md) | **Português (Brasil)**
+<p align="center"><a href="README.md">English</a> | <b>Português (Brasil)</b></p>
 
 Prévia de Markdown ao vivo para o **Sublime Text 4**. Ela abre ao lado do editor, usa um tema escuro neon e mantém os dois painéis com a rolagem sincronizada.
 

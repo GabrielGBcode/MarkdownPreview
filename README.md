@@ -1,6 +1,6 @@
 # Markdown Viewer V2
 
-**English** | [Português (Brasil)](README.pt-BR.md)
+<p align="center"><b>English</b> | <a href="README.pt-BR.md">Português (Brasil)</a></p>
 
 A live Markdown preview for **Sublime Text 4**. It opens next to your editor, uses a dark neon theme, and keeps the two panes scrolled together.
 
