@@ -1,0 +1,10 @@
+[
+    {
+        "caption": "Markdown Viewer: Toggle Preview",
+        "command": "markdown_viewer_v2_toggle"
+    },
+    {
+        "caption": "Markdown Viewer: Copy Preview Text",
+        "command": "markdown_viewer_v2_copy"
+    }
+]

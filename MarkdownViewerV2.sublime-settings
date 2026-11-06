@@ -1,0 +1,6 @@
+{
+    // abre a prévia sozinha ao abrir um arquivo Markdown (Alt+M abre/fecha a qualquer momento)
+    "auto_open": true,
+    // atraso (ms) após parar de digitar antes de atualizar a prévia
+    "delay_ms": 300
+}

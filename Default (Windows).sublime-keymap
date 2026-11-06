@@ -1,0 +1,6 @@
+[
+    {
+        "keys": ["alt+m"],
+        "command": "markdown_viewer_v2_toggle"
+    }
+]
